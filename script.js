@@ -25,4 +25,4 @@ for (const nombre in conteo) {
 }
 
 // Mostrar el resultado en el HTML
-document.getElementById("resultado").textContent = `${nombreMasRepetido} con ${maxRepeticiones} Botos.`;
+document.getElementById("resultado").textContent = `${nombreMasRepetido} con ${maxRepeticiones} Votos.`;
